@@ -1,0 +1,9 @@
+{
+  "name": "@cloudscape-design/chat-components-themeable",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudscape-design/chat-components.git"
+  },
+  "homepage": "https://cloudscape.design"
+}

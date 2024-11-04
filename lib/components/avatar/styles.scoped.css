@@ -1,0 +1,92 @@
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/* stylelint-disable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+/* stylelint-enable @cloudscape-design/no-motion-outside-of-mixin, selector-combinator-disallowed-list, selector-pseudo-class-no-unknown, selector-class-pattern */
+.awsui_root_1qkal_gzyqx_15:not(#\9) {
+  border-collapse: separate;
+  border-spacing: 0;
+  box-sizing: border-box;
+  caption-side: top;
+  cursor: auto;
+  direction: inherit;
+  empty-cells: show;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  line-height: normal;
+  -webkit-hyphens: none;
+          hyphens: none;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  tab-size: 8;
+  text-align: start;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  visibility: visible;
+  white-space: normal;
+  word-spacing: normal;
+  color: var(--color-text-avatar-jddpvm, #ffffff);
+  block-size: 28px;
+  inline-size: 28px;
+  position: relative;
+  border-start-start-radius: 50%;
+  border-start-end-radius: 50%;
+  border-end-start-radius: 50%;
+  border-end-end-radius: 50%;
+}
+.awsui_root_1qkal_gzyqx_15.awsui_avatar-color-default_1qkal_gzyqx_50:not(#\9) {
+  background-color: var(--color-background-avatar-default-rci9zy, #424650);
+}
+.awsui_root_1qkal_gzyqx_15.awsui_avatar-color-gen-ai_1qkal_gzyqx_53:not(#\9) {
+  background: var(--color-background-avatar-gen-ai-i9hcw6, radial-gradient(circle farthest-corner at top left, rgb(0, 150, 250) -25%, rgba(0, 150, 250, 0) 55%), radial-gradient(circle farthest-corner at top right, rgb(216, 178, 255) -10%, rgb(115, 0, 229) 50%));
+}
+.awsui_root_1qkal_gzyqx_15.awsui_initials_1qkal_gzyqx_56:not(#\9) {
+  font-family: var(--font-family-base-dnvic8, "Open Sans", "Helvetica Neue", Roboto, Arial, sans-serif);
+  font-size: var(--font-size-body-s-asqx2i, 12px);
+  line-height: var(--line-height-body-s-7zv1j5, 16px);
+  font-weight: var(--font-weight-heading-l-f8711v, 700);
+}
+.awsui_root_1qkal_gzyqx_15:not(#\9):focus {
+  outline: none;
+}
+body[data-awsui-focus-visible=true] .awsui_root_1qkal_gzyqx_15:not(#\9):focus:focus {
+  position: relative;
+  box-sizing: border-box;
+  outline: 2px dotted transparent;
+  outline-offset: 0px;
+}
+body[data-awsui-focus-visible=true] .awsui_root_1qkal_gzyqx_15:not(#\9):focus:focus::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  box-sizing: border-box;
+  inset-inline-start: calc(-1 * 1px);
+  inset-block-start: calc(-1 * 1px);
+  inline-size: calc(100% + 2 * 1px);
+  block-size: calc(100% + 2 * 1px);
+  border-radius: 50%;
+  border: 2px solid var(--color-border-item-focused-nv6mhz, #006ce0);
+}
+
+.awsui_content_1qkal_gzyqx_84:not(#\9) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  block-size: inherit;
+  inline-size: inherit;
+  overflow: hidden;
+}
